@@ -1,6 +1,8 @@
 # Calculator App
 Welcome to the Calculator App! . The app is built using HTML, CSS, and JavaScript.
 
+## Checkout it :- https://github.com/Mayanksaini1234/Calculator_Javascript
+
 ## Technologies Used
 - HTML: Provides the structure of the app.
 - CSS: Used for styling the app and making it visually appealing.
